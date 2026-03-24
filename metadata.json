@@ -1,0 +1,6 @@
+{
+  "name": "ExpenseFlow",
+  "description": "A modern, elegant expense tracker with real-time insights and beautiful data visualization.",
+  "version": "1.0.0",
+  "requestFramePermissions": []
+}
